@@ -13,8 +13,14 @@ This project intend to train the Yolo Model for detect and recognize different t
 2. Train Dataset
     - the project used open source documment layout dataset for training model
 
+3. custom label image
+    - use open source image labeling tools like : [cvat](https://www.cvat.ai/) , [roboflow](https://roboflow.com/)
 
 ### Installation and Setup
 1. use requirements.txt for installation package dependencies
 
+### Runming
+1. dev folder : for testing tdifferent YOLO model with sample document/image
+
+2. yoloTraing: for training custom model for document layout detection 
 

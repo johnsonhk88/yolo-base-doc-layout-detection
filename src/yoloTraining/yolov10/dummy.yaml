@@ -1,0 +1,9 @@
+path: "your train/test Directory"
+train: "your train folder"  # training folder
+val: "your validation folder"  # validation folder
+
+#classes
+names:
+    0 : "text"
+    1 : "table"
+    2 : "image"
